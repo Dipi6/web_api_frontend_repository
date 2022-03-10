@@ -1,0 +1,88 @@
+*{
+  font-family: sans-serif;
+}
+
+.nav-link:hover{
+  color : #065157;
+}
+
+
+/* .about{
+  background: rgb(104, 104, 182);
+}
+
+.abouth{
+  text-align: center;
+}
+
+.aboutp{
+  margin-left: 300px;
+} */
+
+.Carousel img{
+  height: 100px;
+  width: 100px;
+}
+
+.about{
+  margin-top : 30px;
+  background-color: #f7f8f4;
+}
+
+
+.welcome img{
+  height: 300px;
+  width: 400px;
+
+}
+
+.welcome h4{
+  margin-top : 100px;
+}
+
+.solution{
+  margin-top: 50px
+  ;
+}
+
+.solution row{
+  margin-left : 30px;
+}
+.solution img{
+  margin-top: 40px;
+  height: 30px;
+  width: 30px;
+  margin-left: 50px;
+}
+
+.service{
+  margin-top: 80px;
+  display: inline-block;
+
+}
+
+.service h2{
+  text-align: center;
+}
+
+.card{
+  margin-left: 50px;;
+}
+
+.guarante{
+  height: 50px;
+  background: green;
+}
+
+/* ABOUT.JS */
+
+.img img{
+  height: 350px;
+  width: 100%;
+}
+
+.service-link:hover{
+  color: #4a98ff;
+  box-shadow: 0 0 10px -5px;
+
+}
